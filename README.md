@@ -7,9 +7,9 @@ This repository documents my learning progress and achievements on the path to b
 ## 📚 Contents
 
 - [Academic Life](#academic-life)
-- [Certifications & Transcripts 📜](#certifications--transcripts-)
-- [Spoken Languages 🗣️](#spoken-languages-)
-- [Courses 🎯](#courses-)
+- [Certifications & Transcripts](#certifications--transcripts)
+- [Spoken Languages](#spoken-languages)
+- [Courses & Books](#courses--books)
 
 ---
 
