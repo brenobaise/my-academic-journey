@@ -1,65 +1,68 @@
-# Academic Journey 🎓
+# 🎓 Academic Journey
 
-This repo documents my learning progress and achievements on the path of becoming a Sofware Engineer.
-
-# Contents
-
-- [Academic Life](#academic-life)
-- [Certifications](#certifications)
-- [Spoken Languages](#spoken-languages)
-- [Courses](#courses)
-
-## <div style="text-align: center; padding-bottom: 6px;">Academic Life </div>
-
-<div style="text-align: center;">
-  <strong>Bachelor of Engineering (BEng)</strong><br>
-  Software Engineering @ University of Westminster, London, UK
-
-</div>
-<div style="text-align: center;">
-  <span style="font-size: 0.9em;"><strong><em>Awarded a First Class</em></strong></span>⭐<br>
-  <span style="font-size: 0.9em;">
-  🔗 <a href="https://www.westminster.ac.uk/" target="_blank">University Website</a><br>
-  🏆 <a href="./certificates/university_diploma.png" target="_blank">View Award Certificate</a></span>
-</div>
-<br>
+This repository documents my learning progress and achievements on the path to becoming a Software Engineer.
 
 ---
 
-<br>
-<div style="text-align: center;">
-  <strong>Access To Higher Education Diploma</strong><br>
-  Computing @ West London College, London, UK
+## 📚 Contents
 
-</div>
-<div style="text-align: center;">
+- [Academic Life](#academic-life)
+- [Certifications & Transcripts 📜](#certifications--transcripts-)
+- [Spoken Languages 🗣️](#spoken-languages-)
+- [Courses 🎯](#courses-)
 
-  <span style="font-size: 0.9em;">
+---
+
+## 🎓 Academic Life
+
+<p align="center">
+  <strong>Bachelor of Engineering (BEng)</strong><br>
+  Software Engineering @ University of Westminster, London, UK<br>
+  <em>Awarded a First Class</em> ⭐<br><br>
+  🔗 <a href="https://www.westminster.ac.uk/" target="_blank">University Website</a><br>
+  🏆 <a href="./certificates/university_diploma.png" target="_blank">View Award Certificate</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Access to Higher Education Diploma</strong><br>
+  Computing @ West London College, London, UK<br><br>
   🔗 <a href="https://www.wlc.ac.uk/" target="_blank">College Website</a><br>
-  🏆 <a href="./certificates/university_diploma.png" target="_blank">View Award Certificate</a></span>
-</div>
+  🏆 <a href="./certificates/access_diploma.png" target="_blank">View Award Certificate</a>
+</p>
 
-## Certifications & Transcripts 📜
+---
 
-- BEng Software Engineering, `University of Westminster`, June - 2025.
+## 📜 Certifications & Transcripts
 
-  - <a href="./img/university-transcript.png" target="_blank">View Modules / Transcript</a></span>
+### 🎓 BEng Software Engineering
 
-<br>
+`University of Westminster`, June 2025
 
-- Access to Higher Education, `West London College - Hammersmith & Fulham College`, June - 2022.
+- 🧾 [View Modules / Transcript](./img/university-transcript.png)
 
-  - <span style="font-size: 0.9em;">36 credits achieved at Distinction (D)</span>
+### 📘 Access to Higher Education
 
-  - <span style="font-size: 0.9em;">6 credits at Merit (M)</span>
+`West London College - Hammersmith & Fulham College`, June 2022
 
-  - <span style="font-size: 0.9em;">3 credits at Pass (P)</span>
+- 36 credits achieved at **Distinction (D)**
+- 6 credits at **Merit (M)**
+- 3 credits at **Pass (P)**
 
-## Spoken Languages
+---
 
-- Portuguese: Native speaker.
-- English: Fluent.
-- Spanish: Intermediary speaker.
-- Italian: Elementary proficiency.
+## 🗣️ Spoken Languages
 
-## Courses
+- 🇵🇹 Portuguese: Native speaker
+- 🇬🇧 English: Fluent
+- 🇪🇸 Spanish: Intermediate speaker
+- 🇮🇹 Italian: Elementary proficiency
+
+---
+
+## 🎯 Courses
+
+_(Add your courses here)_
+
+---
