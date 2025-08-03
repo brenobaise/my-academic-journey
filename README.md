@@ -63,6 +63,9 @@ This repository documents my learning progress and achievements on the path to b
 
 ## 🎯 Courses
 
-_(Add your courses here)_
+**Spring-Boot**
+
+- SpringBoot for Begineers. Amigoscode, [Certification](./certificates/amigoscode-springboot-for-beginners.pdf)
+- SpringBoot
 
 ---
