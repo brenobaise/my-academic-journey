@@ -61,11 +61,31 @@ This repository documents my learning progress and achievements on the path to b
 
 ---
 
-## 🎯 Courses
+## 🎯 Courses & Books
 
-**Spring-Boot**
+**Spring-Boot | Spring Framework**
 
 - SpringBoot for Begineers. Amigoscode, [Certification](./certificates/amigoscode-springboot-for-beginners.pdf)
-- SpringBoot
+  - 3.30 hours.
+- Building APIs with Spring Boot. Amigoscode, [Certification](./certificates/amigoscode-building-APIs-with-SpringBoot.pdf)
+  - 1.67 hours.
+- Spring and Spring Boot Fundamentals, 4E, Ken Kousen, O'Reilly Media, Inc. <a href="https://www.oreilly.com/videos/spring-and-spring/0636920908272/" target="_blank">O'Reilly Course website</a><br>
+  - 6 hours.
+- Spring REST Ignition ~ _Ignição Spring REST_ ~. Algaworks, [Certification](./certificates/algaworks_spring_rest.png)
+  - 40 hours.
+
+##### Books
+
+- <a href="https://www.oreilly.com/library/view/spring-boot-up/9781492076971/" target="_blank">Spring Boot: Up and Running</a> , Mark Heckler.
+  - 8 hours.
+- <a href="https://www.bing.com/search?q=Spring+Security+in+Action%2C+Second+Edition&cvid=c042d52883744aea999c2506bdb07cab&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQcyOTVqMGo0qAIIsAIB&FORM=ANAB01&PC=U531" target="_blank">Spring Security in Action, Second Edition</a> , Laurentiu Spilca.
+  - 11 hours.
 
 ---
+
+**Java**
+
+- Java Generics. Amigoscode, [Certification](./certificates/Java-generics.pdf)
+  - 1.13 hours.
+- Java Unit Testing Essentials. Amigoscode, [Certification](./certificates/Java-unit-testing.pdf)
+  - 38 min.
